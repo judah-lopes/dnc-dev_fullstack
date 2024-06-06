@@ -4,18 +4,26 @@
 
 Repositório da formação de tecnologia em Desenvolvimento Full-Stack da Escola DNC
 
+<br>
+
 ## :dart: Objetivo
 
 Documentar e salvar todos os arquivos com o meu progresso ao longo da formação
 
+<br>
+
 ## :wrench: Tecnologias utilizadas
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px;"/>
+   
+   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px"/>
-<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/> -->
 </div>
+
+<br>
 
 ## 📝 Documentação
 
@@ -31,7 +39,6 @@ Na plataforma, os tópicos são numerados desde o primeiro até o último, não 
 > os blocos podem ser aulas, desafios, aulas ao vivo etc.
  
 Tudo isto posto, a documentação dos commits seguirão a <ins>ordenação dos tópicos</ins>, precedido pela padronização a seguir:
-
 <table>
   <tr>
     <td>doc:</td>
@@ -39,6 +46,12 @@ Tudo isto posto, a documentação dos commits seguirão a <ins>ordenação dos t
   </tr>
 </table>
 
+<br>
+
+## ✅ Desafios
+ Os códigos dos desafios serão commitados normalmente. No entanto, como alguns são diferenciais em um portfolio, criarei repositórios para cada um dos desafios/projetos propostos pelo curso e listarei os links de cada um: 
+
+<br>
 
 ## :handshake: Colaboradores
 

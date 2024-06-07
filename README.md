@@ -38,13 +38,32 @@ Na plataforma, os tópicos são numerados desde o primeiro até o último, não 
 > ![Captura de tela 2024-06-06 152520](https://github.com/judah-lopes/dnc-dev_fullstack/assets/134812191/669f1382-6b8e-47e3-9361-90f660abf655)
 > os blocos podem ser aulas, desafios, aulas ao vivo etc.
  
-Tudo isto posto, a documentação dos commits seguirão a <ins>ordenação dos tópicos</ins>, precedido pela padronização a seguir:
-<table>
-  <tr>
-    <td>doc:</td>
-    <td>documentação</td>
-  </tr>
-</table>
+Tudo isto posto, a documentação teórica do conteúdo será feita no arquivo `.obsidian`. Os commits seguirão a <ins>ordenação dos tópicos</ins>, precedido pela padronização a seguir:
+
+<div align="center">
+   
+   | Tipo do Commit       | Emoji                | Palavra Chave | 
+   |----------------------|----------------------|---------------|
+   | Documentação         | 📝 `:pencil:`       | doc           |
+   | Atividades           | ☑️ `:ballot_box_with_check:` | task |
+   | Desafios             | ✅ `:white_check_mark` | chall      |
+   | Bug Fix              | 🐛 `:bug:`          | fix           |
+   | Comentários          | 💡 `:bulb:`         | comms         |
+   | Mover/Renomear       | 🚚 `:truck:`        | chore         |
+   | Pequena Alteração    | 🔨 `:hammer:`       | edit          |
+   | Estilização          | 🎨 `:art:`          | style         |
+   | Deletando um arquivo | 🗑️ `:wastebasket:`  | remove        |
+</div>
+
+<div align="center">
+   
+| Exemplo de commit |
+| --- |
+| 📝 doc: 7. Como funciona o HTML |
+
+###### Padronização com base na documentação do <a href="https://www.conventionalcommits.org/pt-br/v1.0.0/">Conventional Commits</a> e inspirada na de <a href="https://github.com/OtavioMendesSantos/Projeto_Autodidata?tab=readme-ov-file">Otávio Mendes Santos</a>.
+</div>
+
 
 <br>
 

@@ -98,7 +98,7 @@ Tudo isto posto, a documentação teórica do conteúdo será feita no arquivo `
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/jrmendes/">
-          <img src="https://media.licdn.com/dms/image/D4D03AQHgLp7gmj091w/profile-displayphoto-shrink_800_800/0/1692577480535?e=1723075200&v=beta&t=fSNmbTDvvMEtSv_vNgbwykxyT8yAszVKVCUV7B1_Low" width="100px;" alt="Foto de Juan Reis no LinkedIn"/><br>
+          <img src="https://github.com/judah-lopes/dnc-dev_fullstack/blob/main/assets/img/juan-reis.jpg" alt="Foto de Juan Reis no LinkedIn"/><br>
           <sub>
             <b>Juan Reis</b>
           </sub>
@@ -106,7 +106,7 @@ Tudo isto posto, a documentação teórica do conteúdo será feita no arquivo `
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/joao-gabriel-matuto/">
-          <img src="https://media.licdn.com/dms/image/D4D03AQHvo8XM3E9Cow/profile-displayphoto-shrink_800_800/0/1716833825867?e=1723075200&v=beta&t=_EU8iZVrvis8uoGDLi-O88ppfs7QEBe9ujXwPQwY7mk" width="100px;" alt="Foto de João Gabriel no LinkedIn"/><br>
+          <img src="https://github.com/judah-lopes/dnc-dev_fullstack/blob/main/assets/img/joao-gabriel.jpg" width="100px;" alt="Foto de João Gabriel no LinkedIn"/><br>
           <sub>
             <b>João Gabriel</b>
           </sub>

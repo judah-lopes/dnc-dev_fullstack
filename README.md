@@ -52,6 +52,7 @@ Tudo isto posto, a documentação teórica do conteúdo será feita no arquivo `
    | Mover/Renomear       | 🚚 `:truck:`        | chore         |
    | Pequena Alteração    | 🔨 `:hammer:`       | edit          |
    | Estilização          | 🎨 `:art:`          | style         |
+   | Mídia                | 🖼️ `:framed_picture:`  | media      |
    | Deletando um arquivo | 🗑️ `:wastebasket:`  | remove        |
 </div>
 

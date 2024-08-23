@@ -27,15 +27,14 @@ Documentar e salvar todos os arquivos com o meu progresso ao longo da formação
 
 ## 📝 Documentação
 
-O conteúdo do curso é dividido temporalmente, sendo ele distribuído em: 
-- 10 meses (vermelho) com
-  - 4 semanas cada (verde), em cada semana há
-    - ___n___ blocos de uma determinada matéria (laranja) e por fim
+O conteúdo do curso é dividido por matérias, sendo ele distribuído em: 
+- 7 matérias (vermelho) com
+   - ___n___ blocos de uma determinada matéria (verde) e por fim
       - os blocos são divididos por tópicos (rosa)
 
-Na plataforma, os tópicos são numerados desde o primeiro até o último, não havendo interrupção por conta da organização citada acima. Por exemplo, no bloco circulado na imagem, estão contidos os tópicos _221_ e _222_.
+Na plataforma, os tópicos são numerados desde o primeiro até o último, não havendo interrupção por conta da organização citada acima. Por exemplo, no bloco circulado na imagem, estão contidos do tópico _509_ ao _512_.
 
-> ![Captura de tela 2024-06-06 152520](https://github.com/judah-lopes/dnc-dev_fullstack/assets/134812191/669f1382-6b8e-47e3-9361-90f660abf655)
+> ![Captura de tela 2024-08-23 154054](https://github.com/user-attachments/assets/873b84b1-d82e-426b-8e3a-35dd7444ad88)
 > os blocos podem ser aulas, desafios, aulas ao vivo etc.
  
 Tudo isto posto, a documentação teórica do conteúdo será feita no arquivo `.obsidian`. Os commits seguirão a <ins>ordenação dos tópicos</ins>, precedido pela padronização a seguir:

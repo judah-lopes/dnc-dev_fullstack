@@ -68,6 +68,10 @@ Tudo isto posto, a documentação teórica do conteúdo será feita no arquivo `
 <br>
 
 ## ✅ Desafios
+ Além do conteúdo, cada matéria possui um desafio final cujo a aprovação resulta no certificado da mesma.
+ > ![Captura de tela 2024-08-23 155101 (2)](https://github.com/user-attachments/assets/341de6fe-048f-4192-a215-958126e46a1f) <br>
+ > exemplo: desafio da matéria 6
+
  Os códigos dos desafios serão commitados normalmente. No entanto, como alguns são diferenciais em um portfolio, criarei repositórios para cada um dos desafios/projetos propostos pelo curso e listarei os links de cada um: 
 
 <br>

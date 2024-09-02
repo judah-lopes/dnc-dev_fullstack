@@ -34,7 +34,7 @@ header{
 .header-text{
     margin: 5rem 0 0 13rem;
 }
-.header-text h1{
+.header-text h2{
     font-size: 4rem;
     font-weight: 400;
 
@@ -79,7 +79,7 @@ header{
     width: 50%;
     margin-left: 6rem;
 }
-.cta-text h1{
+.cta-text h3{
     font-size: 3.2rem;
     font-weight: 700;
 
@@ -98,7 +98,7 @@ header{
 
     background-color: var(--primary-color);
 }
-.carousel h1{
+.carousel h3{
     padding-top: 8rem;
     margin-bottom: 6rem;
 
@@ -110,13 +110,10 @@ header{
 }
 .carousel-container{
     padding-bottom: 8rem;
-    padding-right: 3rem;
     
     display: flex;
     justify-content: center;
     align-items: center;
-
-    overflow: hidden;
 }
 .carousel-item{
     margin-left: 3rem;
@@ -138,7 +135,7 @@ header{
     flex-direction: column;
     align-items: center;
 }
-.form h1{
+.form h3{
     padding-bottom: 5rem;
 
     font-size: 3.2rem;
